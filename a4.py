@@ -19,8 +19,7 @@ def MatrixRank(A):
 	row=0
 	while row<len(A):
 		c=0
-		
-
+	\
 		if row>=rank:
 			break
 		if A[row][row]!=0:
