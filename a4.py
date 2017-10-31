@@ -46,8 +46,6 @@ def MatrixRank(A):
 		
 		row=row+1
 	return rank
-
-
 f=[[2,1,5,0],[7,3,5,2]]
 g=MatrixRank(f)
 print (g)
